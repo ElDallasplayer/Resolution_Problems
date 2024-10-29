@@ -1,0 +1,14 @@
+D:\Android\Resolucion_problema\bin\Debug\net6.0\Resolucion_problema.exe
+D:\Android\Resolucion_problema\bin\Debug\net6.0\Resolucion_problema.deps.json
+D:\Android\Resolucion_problema\bin\Debug\net6.0\Resolucion_problema.runtimeconfig.json
+D:\Android\Resolucion_problema\bin\Debug\net6.0\Resolucion_problema.dll
+D:\Android\Resolucion_problema\bin\Debug\net6.0\Resolucion_problema.pdb
+D:\Android\Resolucion_problema\obj\Debug\net6.0\Resolucion_problema.GeneratedMSBuildEditorConfig.editorconfig
+D:\Android\Resolucion_problema\obj\Debug\net6.0\Resolucion_problema.AssemblyInfoInputs.cache
+D:\Android\Resolucion_problema\obj\Debug\net6.0\Resolucion_problema.AssemblyInfo.cs
+D:\Android\Resolucion_problema\obj\Debug\net6.0\Resolucion_problema.csproj.CoreCompileInputs.cache
+D:\Android\Resolucion_problema\obj\Debug\net6.0\Resolucion_problema.dll
+D:\Android\Resolucion_problema\obj\Debug\net6.0\refint\Resolucion_problema.dll
+D:\Android\Resolucion_problema\obj\Debug\net6.0\Resolucion_problema.pdb
+D:\Android\Resolucion_problema\obj\Debug\net6.0\Resolucion_problema.genruntimeconfig.cache
+D:\Android\Resolucion_problema\obj\Debug\net6.0\ref\Resolucion_problema.dll
